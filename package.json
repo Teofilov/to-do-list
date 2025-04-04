@@ -16,7 +16,9 @@
     "dependencies": {
         "@popperjs/core": "^2.11.8",
         "@vitejs/plugin-vue": "^5.2.3",
-        "bootstrap": "^5.3.3",
+        "bootstrap": "^5.3.4",
+        "bootstrap-vue-next": "^0.28.3",
+        "sass": "^1.86.3",
         "vue": "^3.5.13"
     }
 }
